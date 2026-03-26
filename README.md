@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/MySQL-blue"/>
 </p>
 
-## 📊 My GitHub Stats
+[## 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IR-nagata&show_icons=true&theme=tokyonight" />
@@ -41,3 +41,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IR-nagata&layout=compact&theme=tokyonight" />
 </p>
+](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IR-nagata&theme=tokyonight)
