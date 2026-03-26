@@ -32,4 +32,8 @@
   <img src="https://img.shields.io/badge/MySQL-blue"/>
 </p>
 
-https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IR-nagata&theme=tokyonight
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IR-nagata&theme=tokyonight" />
+</p>
