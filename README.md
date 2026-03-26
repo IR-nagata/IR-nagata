@@ -32,9 +32,18 @@
   <img src="https://img.shields.io/badge/MySQL-blue"/>
 </p>
 
----
+🔥 Card
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=tokyonight" />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+
+📊 Stats
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU_USUARIO&theme=tokyonight" />
+
+
+🧠 Linguagens
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USUARIO&theme=tokyonight" />
+
+
 ## 👀 Profile Views
 
 <p align="center">
