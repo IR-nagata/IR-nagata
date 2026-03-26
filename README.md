@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://br.pinterest.com/pin/100768110408364153/" width="100%" />
+  <img src="https://i.pinimg.com/originals/0d/67/10/0d6710e678aed18029201c49851bd334.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Felipe</h1>
