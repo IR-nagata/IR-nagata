@@ -3,20 +3,6 @@
   <img src="https://i.pinimg.com/originals/0d/67/10/0d6710e678aed18029201c49851bd334.gif" width="100%" />
 </p>
 
-<h1 align="center">OI, meu nome é Felipe Nagata</h1>
-<h3 align="center">A Web Developer in the making 🚀</h3>
-
----
-
-## 👨‍💻 About Me
-
-🎓 Estudante de Tecnologia  
-💻 Apaixonado por desenvolvimento web  
-🚀 Sempre aprendendo coisas novas  
-🧠 Focado em Estrutura de Dados e Algoritmos  
-
----
-
 ## 🚀 Technology Stack
 
 <p>
