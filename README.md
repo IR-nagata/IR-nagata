@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3c/6e/9b/3c6e9b9c8e7c3f7c7c3a1c6cbb5e6f5d.gif" />
+  <img src="[https://i.pinimg.com/originals/3c/6e/9b/3c6e9b9c8e7c3f7c7c3a1c6cbb5e6f5d.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2gzamxudzVoM3NvY201eWlwa2Q4emhiZXViaG96aTI5NW9vaTJmeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pVGsAWjzvXcZW4ZBTE/giphy.gif)" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Felipe</h1>
