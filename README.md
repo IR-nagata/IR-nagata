@@ -34,18 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=github_dark)
-
-## 📈 Activity
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-dark)
-
-## 🏆 Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub)
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
 ## 👀 Profile Views
 
 <p align="center">
