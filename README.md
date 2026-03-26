@@ -33,20 +33,11 @@
 </p>
 
 ## 📊 My GitHub Stats
-⭐ Total Stars Earned: 0  
-🔁 Total Commits: 0  
-🔀 Total PRs: 0  
-🐛 Total Issues: 0  
-📦 Contributed to: 0  
 
-## 💻 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IR-nagata&show_icons=true&theme=tokyonight" />
+</p>
 
-🐍 Python       ████████████████ 80%  
-💻 JavaScript   ████ 15%  
-🌐 HTML/CSS     ██ 5%  
-
-## 🔥 Contribution Streak
-
-📅 Current Streak: 0 days  
-🏆 Longest Streak: 0 days  
-📈 Total Contributions: 0  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IR-nagata&layout=compact&theme=tokyonight" />
+</p>
