@@ -33,24 +33,20 @@
 </p>
 
 ## 📊 My GitHub Stats
+⭐ Total Stars Earned: 0  
+🔁 Total Commits: 0  
+🔀 Total PRs: 0  
+🐛 Total Issues: 0  
+📦 Contributed to: 0  
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU_USUARIO&theme=tokyonight" />
-</p>
+## 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USUARIO&theme=tokyonight" />
-</p>
+🐍 Python       ████████████████ 80%  
+💻 JavaScript   ████ 15%  
+🌐 HTML/CSS     ██ 5%  
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=tokyonight" />
-</p>
+## 🔥 Contribution Streak
 
----
-
-## 🌐 Connect with me
-
-<p>
-  <a href="https://linkedin.com/in/seu-link">LinkedIn</a> |
-  <a href="https://github.com/SEU_USUARIO">GitHub</a>
-</p>
+📅 Current Streak: 0 days  
+🏆 Longest Streak: 0 days  
+📈 Total Contributions: 0  
