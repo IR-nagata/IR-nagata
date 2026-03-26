@@ -34,26 +34,17 @@
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=github_dark)
 
----
+## 📈 Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" />
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-dark)
 
-## 🔥 Streak Stats
+## 🏆 Trophies
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=radical" />
-</p>
-
----
+![](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub)
 
 ## 👀 Profile Views
 
